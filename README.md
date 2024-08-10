@@ -6,12 +6,16 @@ I am Analisys and Developed Student 👶
 
 E em minha trajetória eu estudei:
 * HTML
+* Git e GitHub
+   * Inclusive os repositórios em meu perfil são de estudos! 
 * Segurança da informação
 * Power BI
 * SQL
 
 
   *E desejo aprofundar meus conhecimentos no segmento de **dados***
+
+
 
 
 
