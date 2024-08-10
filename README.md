@@ -11,7 +11,7 @@ E em minha trajetória eu estudei:
 * Segurança da informação
 * Power BI
 * SQL
-
+* C++ Arduíno
 
   *E desejo aprofundar meus conhecimentos no segmento de **dados***
 
